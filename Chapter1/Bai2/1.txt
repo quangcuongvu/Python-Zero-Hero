@@ -1,0 +1,6 @@
+Number & Booleans
+
+- Integers (số nguyên): là hệ thống số thập phân, thập lục phân và nhị phân
+- Floating Point Number (số thực): các số thập phân và có phần thập phân sử dụng "e" hoặc "E" và theo sau là các số nguyên tống
+- Complex number (số phức)
+- Boolean (kiểu luận lý) có hai giá trị true hoặc false
